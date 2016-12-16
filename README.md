@@ -23,6 +23,7 @@ Enhancement | Binarisation after enhancement
 
 Go [here](https://github.com/Transkribus/VCG-DUTH-ImageBinarisationTool) for the Binarization Code:  
 
+## References
 
 [Nelson2004] Nelson R, Kolb H (2004) ON and OFF pathways in the vertebrate retina and visual system. In: Chalupa LM, Werner JS (eds) The visual neurosciences. MIT Press, Cambridge, pp 260–278
 
