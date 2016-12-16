@@ -8,7 +8,7 @@ In the frame of “READ” project, document image enhancement tools have been i
 
 The first module is an anisotropic diffusion process or also called Perona–Malik diffusion [Perona1987].  It is a procedure aiming at reducing image noise without removing significant parts of the image content - typically edges.
 
-The second module is inspired by adopts the characteristics of the ganglion cells of the Hu-man Visual System (HVS) [Nelson2004, Vonikakis2011]. It can deal with various types of degradations, such as uneven illumination, shadows, low contrast, smears, and heavy noise densities. 
+The second module is inspired by adopts the characteristics of the ganglion cells of the Human Visual System (HVS) [Nelson2004, Vonikakis2011]. It can deal with various types of degradations, such as uneven illumination, shadows, low contrast, smears, and heavy noise densities. 
 
 The document image enhancement tool is developed in C++11 and it is available at github under LGPL-3.0
 
