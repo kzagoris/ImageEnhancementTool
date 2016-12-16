@@ -16,12 +16,14 @@ The document image enhancement tool is developed in C++11 and it is available at
 Original Document | Binarization
 -------------------------------|--------------------------
 ![Original Document](doc1.jpg) | ![Binarization](doc2.png)
+
 Enhancement | Binarisation after enhancement
+-------------------------------|--------------------------
 ![Enhancement](doc3.png) | ![Binarization after enhancement](doc4.png)
 
 *Usage*: enhancement [infile] [outfile]
 
-Go [here](https://github.com/Transkribus/VCG-DUTH-ImageBinarisationTool) for the Binarization Code:  
+Go [here](https://github.com/Transkribus/VCG-DUTH-ImageBinarizationTool) for the Binarization Code:  
 
 ## References
 
