@@ -19,6 +19,8 @@ Original Document | Binarization
 Enhancement | Binarisation after enhancement
 ![Enhancement](doc3.png) | ![Binarization after enhancement](doc4.png)
 
+*Usage*: enhancement [infile] [outfile]
+
 Go [here](https://github.com/Transkribus/VCG-DUTH-ImageBinarisationTool) for the Binarization Code:  
 
 
