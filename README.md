@@ -4,11 +4,11 @@
 ## Democritus University of Thrace (DUTH)
 
 
-In the frame of “READ” project, document image enhancement tools have been implemented to be used as a preprocessing stage for the binarisation algorithm. After experimental work, the enhancement tools comprise two different modules. 
+In the frame of “READ” project, document image enhancement tools have been implemented to be used as a preprocessing stage for the binarisation algorithm. After experimental work, the enhancement tools consists of two different modules. 
 
-The first module is an anisotropic diffusion process or also called Perona–Malik diffusion [Perona1987].  It is a procedure aiming at reducing image noise without removing signifi-cant parts of the image content - typically edges.
+The first module is an anisotropic diffusion process or also called Perona–Malik diffusion [Perona1987].  It is a procedure aiming at reducing image noise without removing significant parts of the image content - typically edges.
 
-The second module is inspired by adopts the characteristics of the ganglion cells of the Hu-man Visual System (HVS) [Nelson2004, Vonikakis2011]. It can deal with various types of deg-radations, such as uneven illumination, shadows, low contrast, smears, and heavy noise den-sities. 
+The second module is inspired by adopts the characteristics of the ganglion cells of the Hu-man Visual System (HVS) [Nelson2004, Vonikakis2011]. It can deal with various types of degradations, such as uneven illumination, shadows, low contrast, smears, and heavy noise densities. 
 
 The document image enhancement tool is developed in C++11 and it is available at github under LGPL-3.0
 
